@@ -1,0 +1,6 @@
+
+name: DeathPenalty
+version: 1.0.0
+main: id.server.deathpenalty.DeathPenalty
+api-version: '1.21'
+description: Applies Slowness II for one hour after death.
